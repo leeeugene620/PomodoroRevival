@@ -1,0 +1,7 @@
+{
+    "sound_file_path": "src/sound/timer_alert.mp3",
+    "volume": 0.28,
+    "work_time": 60,
+    "break_time": 300,
+    "long_break_time": 900
+}
